@@ -11,10 +11,14 @@
             "id": "26860446395f9446",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "ReadMe"
             }
           }
         ]
@@ -178,6 +182,14 @@
   },
   "active": "26860446395f9446",
   "lastOpenFiles": [
+    "ReadMe.md~",
+    "Git/Введение.md",
+    "ReadMe.md",
+    "Python/Основы/Введение.md",
+    "Python/Основы",
+    "Инструкция по использованию.md",
+    "Git",
+    "Python",
     "Добро пожаловать.md"
   ]
 }
