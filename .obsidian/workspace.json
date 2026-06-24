@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/1. Репозиторий и коммиты.md",
+                "file": "Git/0. Введение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Репозиторий и коммиты"
+              "title": "0. Введение"
             }
           }
         ],
@@ -197,10 +197,12 @@
   },
   "active": "d4018e17163bad39",
   "lastOpenFiles": [
-    "Git/2. Удаленный репозиторий.md",
-    "Git/1. Репозиторий и коммиты.md",
-    "Git/0. Введение.md",
+    "Python/Основы/0. Введение.md",
+    "PostgreSQL/0. Введение.md",
     "ReadMe.md",
+    "Git/1. Репозиторий и коммиты.md",
+    "Git/2. Удаленный репозиторий.md",
+    "Git/0. Введение.md",
     "1..md",
     "PostreSQL/Введение.md",
     "PostreSQL",
